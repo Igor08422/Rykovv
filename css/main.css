@@ -1,0 +1,135 @@
+.кнопка {
+  background-color: #2D3333;
+  text-transform: lowercase;
+  border: 1px solid #2D3333;
+  text-decoration-color: black;
+  border-radius: 6px;
+  float: right;
+  width: 100px;
+  height: 50px;
+  color: white; /* цвет текста */
+}
+
+.кнопка_en {
+  background-color: #2D3333;
+  text-transform: lowercase;
+  border: 1px solid #2D3333;
+  text-decoration-color: black;
+  border-radius: 6px;
+  float: right;
+  width: 50px;
+  height: 50px;
+  color: white; /* цвет текста */
+}
+
+.название {
+  background-color: #2D3333;
+  width: 350px;
+  height: 40px;
+  text-align: center;
+  color: white;
+}
+
+.главная {
+  background-color: white;
+  text-align: center;
+  width: 950px;
+  height: 50px;
+}
+
+.футер {
+  background-color: #2D3333;
+  width: 100%;
+  height:500px;
+}
+
+.шапка {
+  background-color: #2D3333;
+  width: 100%;
+  height: 50px;
+}
+
+.текст {
+  font-size: 25px;
+}
+
+.главная {
+  font-size: 30px;
+}
+
+.фото {
+ text-align: center;
+}
+
+.сслыка {
+  color: red;
+  padding: black;
+}
+
+.left {
+   color: #949494;
+   text-align: сcenter;
+ }
+
+ a {
+   color: red;
+   padding: black;
+ }
+
+.партнеры {
+  text-align: center;
+  color: white;
+}
+
+.none {
+ color: #8f3636;
+}
+
+.тгк {
+  color: white;
+}
+
+.good {
+  color: #6e0e0e;
+}
+
+.тг {
+  text-align: left;
+}
+
+.nu {
+  width: 20px;
+  height: 20px;
+}
+
+.logo {
+  width: 500px;
+  height: 500px;
+}
+
+#logo {
+  text-align: center;
+}
+
+.почта {
+ width: 150px;
+ height: 150px;
+}
+
+.r {
+  text-align: center;
+}
+
+.a {
+  text-align: center;
+}
+
+.aa {
+  width: 100px;
+  height: 100px
+}
+
+.bb {
+    width: 25px;
+    height: 25px;
+}
